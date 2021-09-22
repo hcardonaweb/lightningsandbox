@@ -1,4 +1,4 @@
-![Lightning Sandbox Banner](https://github.com/hcardonaweb/lightningsandbox/app/assets/img/lightningsandbox_banner.jpeg 'Lightning Sandbox Banner')
+![Lightning Sandbox Banner](https://raw.githubusercontent.com/hcardonaweb/lightningsandbox/master/app/assets/img/lighningsandbox-banner.jpg 'Lightning Sandbox Banner')
 
 # Lighting Sandbox
 
